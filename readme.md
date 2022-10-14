@@ -1,6 +1,8 @@
 ## Description
 
-Програма для реалізації обертання тетраедра/куба/октаедра відносно рухомої осі паралельної осі Ох, яка пересувається фіксованою траєкторією
+Програма для реалізації обертання куба відносно рухомої осі паралельної осі Ох, яка пересувається фіксованою траєкторією
+
+A program for implementing the rotation of a cube relative to a moving axis parallel to the Ox axis, which moves along a fixed trajectory
 
 ## Technologies used
 
